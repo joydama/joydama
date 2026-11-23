@@ -4,9 +4,10 @@
 
 ### Information Systems Student | Aspiring Data & Business Analyst
 
-*Interested in Data Analytics, Business Analysis, System Analysis, and Business Process Improvement.*
+*Passionate about Technology, Data Analytics, Business Processes, and Digital Solutions.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-joydama-181717?style=for-the-badge&logo=github)](https://github.com/joydama)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joy%20Damario%20Tama-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joydamariotama/)
 
 </div>
 
@@ -16,18 +17,25 @@
 
 Hello! I'm **Joy Damario Tama**, an Information Systems student at **Universitas Esa Unggul** with a strong interest in technology, data, and business processes.
 
-I have strengths in using **Odoo, Microsoft Office, Pentaho, Figma, and Business Process Modeling Notation (BPMN)**. I also have an interest in web development and continuously improve my technical skills to create effective technology-based solutions.
+I have strengths in using **Odoo, Microsoft Office, Pentaho, Figma, and Business Process Modeling Notation (BPMN)**. I also have knowledge of web development technologies and enjoy exploring how technology can be used to create effective solutions for business needs.
 
 I'm particularly interested in pursuing a career in:
 
-- **Data Analyst** – Analyzing and interpreting data to support business decisions.
-- **Business Analyst** – Understanding business needs and identifying opportunities for improvement.
-- **System Analyst** – Analyzing system requirements and designing effective information systems.
+- **Data Analyst** – Analyzing and interpreting data to generate meaningful insights and support business decisions.
+- **Business Analyst** – Understanding business requirements and identifying opportunities for process improvement.
+- **System Analyst** – Analyzing system requirements and designing effective information system solutions.
 - **ETL Developer** – Working with data extraction, transformation, and loading processes.
 
-Beyond academics, I actively participate in student organizations. I am a member of **HUMANIS**, serving as a Staff Member in the Interests and Talents Division under Student Resource Development.
+Beyond academics, I actively participate in student organizations. I am part of **HUMANIS**, serving as a Staff Member in the Interests and Talents Division under Student Resource Development.
 
-Through my academic journey and organizational experience, I continue to develop my technical, analytical, communication, and teamwork skills.
+Through academic activities, organizational involvement, and practical projects, I continuously develop my technical, analytical, communication, and teamwork skills.
+
+## Education
+
+**Universitas Esa Unggul**
+
+- Major: Information Systems
+- Academic Interest: Data Analytics, Business Analysis, System Analysis, and Information Technology.
 
 ## Tech Stack & Skills
 
@@ -55,13 +63,14 @@ Through my academic journey and organizational experience, I continue to develop
 
 | Field | Focus |
 |---|---|
-| Data Analytics | Data analysis and business insights |
+| Data Analytics | Data analysis, interpretation, and business insights |
 | Business Analysis | Business requirements and process improvement |
 | System Analysis | System requirements and information system design |
 | ETL Development | Data extraction, transformation, and loading |
 | ERP Systems | Enterprise resource planning using Odoo |
-| Business Process Modeling | Business workflow modeling using BPMN |
-| UI/UX Design | Interface design and prototyping using Figma |
+| Business Process Modeling | Business workflow analysis and modeling using BPMN |
+| UI/UX Design | User interface design and prototyping using Figma |
+| Web Development | Building functional web applications |
 
 ## Organization Experience
 
@@ -71,15 +80,24 @@ Through my academic journey and organizational experience, I continue to develop
 
 - Participating in student organizational activities.
 - Supporting the development of student interests and talents.
-- Developing communication, teamwork, and organizational skills.
+- Contributing to student development activities.
+- Developing communication, collaboration, leadership, and teamwork skills.
 
 ## Featured Projects
 
-I'm continuously developing my technical and analytical skills through academic assignments, organizational activities, and practical projects.
+I continuously improve my technical and analytical skills through academic assignments, practical projects, and organizational activities.
 
-Explore my repositories to discover my work and development journey.
+My areas of project exploration include:
 
-**[View My GitHub Repositories](https://github.com/joydama?tab=repositories)**
+- Web Application Development using Laravel, PHP, and MySQL.
+- ERP Implementation and Business Processes using Odoo.
+- Data Integration and ETL Processes using Pentaho.
+- Business Process Modeling using BPMN.
+- UI/UX Design and Prototyping using Figma.
+
+Explore my repositories to discover my projects, experiments, and development journey.
+
+[![Explore Repositories](https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github)](https://github.com/joydama?tab=repositories)
 
 ## GitHub Statistics
 
@@ -95,9 +113,13 @@ Explore my repositories to discover my work and development journey.
 
 <div align="center">
 
+I'm always open to learning opportunities, collaboration, and professional networking.
+
 [![GitHub](https://img.shields.io/badge/GitHub-joydama-181717?style=for-the-badge&logo=github)](https://github.com/joydama)
 
-**Thank you for visiting my GitHub profile!**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joy%20Damario%20Tama-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joydamariotama/)
+
+**Let's Connect and Collaborate!**
 
 *Always Learning. Always Growing. Always Improving.*
 
