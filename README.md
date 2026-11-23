@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Joy Damario!
+# Hi, I'm Joy Damario Tama!
 
 ### Information Systems Student | Aspiring Data & Business Analyst
 
@@ -14,7 +14,7 @@
 
 ## About Me
 
-Hello! I'm **Joy Damario**, an Information Systems student at **Universitas Esa Unggul** with a strong interest in technology, data, and business processes.
+Hello! I'm **Joy Damario Tama**, an Information Systems student at **Universitas Esa Unggul** with a strong interest in technology, data, and business processes.
 
 I have strengths in using **Odoo, Microsoft Office, Pentaho, Figma, and Business Process Modeling Notation (BPMN)**. I also have an interest in web development and continuously improve my technical skills to create effective technology-based solutions.
 
